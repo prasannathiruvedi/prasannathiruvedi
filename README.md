@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prasannathiruvedi
 - 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning programming from CS50x
+- 🌱 I’m currently learning programming from the Odin Project
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: <konfidential>
 - 😄 Pronouns: he/him
